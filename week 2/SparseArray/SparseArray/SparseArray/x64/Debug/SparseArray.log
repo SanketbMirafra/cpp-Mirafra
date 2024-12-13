@@ -1,0 +1,3 @@
+﻿  SparseArray.cpp
+C:\Mirafra\cpp\SparseArray\SparseArray\SparseArray.cpp(32,9): warning C4101: 'z': unreferenced local variable
+  SparseArray.vcxproj -> C:\Mirafra\cpp\SparseArray\SparseArray\x64\Debug\SparseArray.exe

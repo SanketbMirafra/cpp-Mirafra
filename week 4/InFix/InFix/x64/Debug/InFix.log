@@ -1,0 +1,5 @@
+﻿  InFix.cpp
+C:\Mirafra\cpp\InFix\InFix\InFix.cpp(62,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mirafra\cpp\InFix\InFix\InFix.cpp(72,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mirafra\cpp\InFix\InFix\InFix.cpp(81,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  InFix.vcxproj -> C:\Mirafra\cpp\InFix\x64\Debug\InFix.exe

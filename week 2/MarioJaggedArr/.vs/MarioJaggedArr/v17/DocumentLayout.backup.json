@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mirafra\\cpp\\MarioJaggedArr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07273DFC-7435-4339-8D02-65D445C37118}|MarioJaggedArr\\MarioJaggedArr.vcxproj|C:\\Mirafra\\cpp\\MarioJaggedArr\\MarioJaggedArr\\MarioJaggedArr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07273DFC-7435-4339-8D02-65D445C37118}|MarioJaggedArr\\MarioJaggedArr.vcxproj|solutionrelative:MarioJaggedArr\\MarioJaggedArr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarioJaggedArr.cpp",
+              "DocumentMoniker": "C:\\Mirafra\\cpp\\MarioJaggedArr\\MarioJaggedArr\\MarioJaggedArr.cpp",
+              "RelativeDocumentMoniker": "MarioJaggedArr\\MarioJaggedArr.cpp",
+              "ToolTip": "C:\\Mirafra\\cpp\\MarioJaggedArr\\MarioJaggedArr\\MarioJaggedArr.cpp",
+              "RelativeToolTip": "MarioJaggedArr\\MarioJaggedArr.cpp",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAIkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T09:31:24.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

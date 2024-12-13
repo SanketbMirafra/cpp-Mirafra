@@ -1,0 +1,12 @@
+﻿  DataStructure.cpp
+C:\Mirafra\cpp\DataStructure\DataStructure\DataStructure.cpp(30,22): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Mirafra\cpp\DataStructure\DataStructure\DataStructure.cpp(30,22): warning C4244:         with
+C:\Mirafra\cpp\DataStructure\DataStructure\DataStructure.cpp(30,22): warning C4244:         [
+C:\Mirafra\cpp\DataStructure\DataStructure\DataStructure.cpp(30,22): warning C4244:             _Ty=double
+C:\Mirafra\cpp\DataStructure\DataStructure\DataStructure.cpp(30,22): warning C4244:         ]
+C:\Mirafra\cpp\DataStructure\DataStructure\DataStructure.cpp(44,22): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Mirafra\cpp\DataStructure\DataStructure\DataStructure.cpp(44,22): warning C4244:         with
+C:\Mirafra\cpp\DataStructure\DataStructure\DataStructure.cpp(44,22): warning C4244:         [
+C:\Mirafra\cpp\DataStructure\DataStructure\DataStructure.cpp(44,22): warning C4244:             _Ty=double
+C:\Mirafra\cpp\DataStructure\DataStructure\DataStructure.cpp(44,22): warning C4244:         ]
+  DataStructure.vcxproj -> C:\Mirafra\cpp\DataStructure\x64\Debug\DataStructure.exe

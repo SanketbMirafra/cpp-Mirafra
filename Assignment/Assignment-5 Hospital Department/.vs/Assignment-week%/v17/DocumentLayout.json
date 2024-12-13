@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mirafra\\cpp\\Assignment-week%\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91C3DAE0-AC49-4D69-9E1F-E698C4ABA428}|Assignment-week%\\Assignment-week%.vcxproj|C:\\Mirafra\\cpp\\Assignment-week%\\Assignment-week%\\Assignment-week%.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91C3DAE0-AC49-4D69-9E1F-E698C4ABA428}|Assignment-week%\\Assignment-week%.vcxproj|solutionrelative:Assignment-week%\\Assignment-week%.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment-week%.cpp",
+              "DocumentMoniker": "C:\\Mirafra\\cpp\\Assignment-week%\\Assignment-week%\\Assignment-week%.cpp",
+              "RelativeDocumentMoniker": "Assignment-week%\\Assignment-week%.cpp",
+              "ToolTip": "C:\\Mirafra\\cpp\\Assignment-week%\\Assignment-week%\\Assignment-week%.cpp",
+              "RelativeToolTip": "Assignment-week%\\Assignment-week%.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T04:15:29.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

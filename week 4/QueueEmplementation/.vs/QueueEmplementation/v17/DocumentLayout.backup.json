@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mirafra\\cpp\\QueueEmplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910CA5BB-9D08-44A3-94B9-F0FD3B7A5F0F}|QueueEmplementation\\QueueEmplementation.vcxproj|C:\\Mirafra\\cpp\\QueueEmplementation\\QueueEmplementation\\QueueEmplementation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{910CA5BB-9D08-44A3-94B9-F0FD3B7A5F0F}|QueueEmplementation\\QueueEmplementation.vcxproj|solutionrelative:QueueEmplementation\\QueueEmplementation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueEmplementation.cpp",
+              "DocumentMoniker": "C:\\Mirafra\\cpp\\QueueEmplementation\\QueueEmplementation\\QueueEmplementation.cpp",
+              "RelativeDocumentMoniker": "QueueEmplementation\\QueueEmplementation.cpp",
+              "ToolTip": "C:\\Mirafra\\cpp\\QueueEmplementation\\QueueEmplementation\\QueueEmplementation.cpp",
+              "RelativeToolTip": "QueueEmplementation\\QueueEmplementation.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAowG0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T04:24:52.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  SmartParking.cpp
+C:\Mirafra\cpp\SmartParking\SmartParking\SmartParking.cpp(107,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Mirafra\cpp\SmartParking\SmartParking\SmartParking.cpp(142,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SmartParking.vcxproj -> C:\Mirafra\cpp\SmartParking\x64\Debug\SmartParking.exe
