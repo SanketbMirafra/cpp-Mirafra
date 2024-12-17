@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mirafra\\cpp\\adjecency list directed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED85054E-1EBB-4175-8402-9A8AA002768F}|adjecency list directed\\adjecency list directed.vcxproj|C:\\Mirafra\\cpp\\adjecency list directed\\adjecency list directed\\adjecency list directed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED85054E-1EBB-4175-8402-9A8AA002768F}|adjecency list directed\\adjecency list directed.vcxproj|solutionrelative:adjecency list directed\\adjecency list directed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adjecency list directed.cpp",
+              "DocumentMoniker": "C:\\Mirafra\\cpp\\adjecency list directed\\adjecency list directed\\adjecency list directed.cpp",
+              "RelativeDocumentMoniker": "adjecency list directed\\adjecency list directed.cpp",
+              "ToolTip": "C:\\Mirafra\\cpp\\adjecency list directed\\adjecency list directed\\adjecency list directed.cpp",
+              "RelativeToolTip": "adjecency list directed\\adjecency list directed.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T05:59:06.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

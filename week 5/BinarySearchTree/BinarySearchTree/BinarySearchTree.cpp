@@ -89,7 +89,7 @@ public:
 
     Node<T>* deleteNode(Node<T>* root, T value) {
            
-        if (root == nullptr)return nullptr;
+        if (root == nullptr) return nullptr;
 
         if (value < root->value) {
             root->left = deleteNode(root->left, value);

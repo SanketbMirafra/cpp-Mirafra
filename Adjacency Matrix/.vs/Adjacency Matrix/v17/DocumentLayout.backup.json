@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mirafra\\cpp\\Adjacency Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D79F-D129-4A26-89C9-02D4962891F4}|Adjacency Matrix\\Adjacency Matrix.vcxproj|C:\\Mirafra\\cpp\\Adjacency Matrix\\Adjacency Matrix\\Adjacency Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A35D79F-D129-4A26-89C9-02D4962891F4}|Adjacency Matrix\\Adjacency Matrix.vcxproj|solutionrelative:Adjacency Matrix\\Adjacency Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adjacency Matrix.cpp",
+              "DocumentMoniker": "C:\\Mirafra\\cpp\\Adjacency Matrix\\Adjacency Matrix\\Adjacency Matrix.cpp",
+              "RelativeDocumentMoniker": "Adjacency Matrix\\Adjacency Matrix.cpp",
+              "ToolTip": "C:\\Mirafra\\cpp\\Adjacency Matrix\\Adjacency Matrix\\Adjacency Matrix.cpp*",
+              "RelativeToolTip": "Adjacency Matrix\\Adjacency Matrix.cpp*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T05:25:13.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
